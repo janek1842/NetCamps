@@ -4,7 +4,7 @@ This product is being developed for the use of _Metodyki Projektów Teleinformat
 > It general aim is to design, configure, simulate, test and document an exemplary campus computer network   
 
 ## Product portfolio
-This product might be used in many areas depending if you are student, network engineer, entrepreneur or in any other role interested in one of the below points which are standing as a business justification and roadmap for the product development:     
+This product might be used in many areas depending if you are a student, network engineer, entrepreneur or in any other role interested in one of the below points, which are standing as a business justification and roadmap for the product development:     
 
 ```
 - Providing an exemplary topology, configuration and documentation for the campus computer network along with the used tools
@@ -13,6 +13,6 @@ This product might be used in many areas depending if you are student, network e
 - Delivering educational or instructional materials regarding networking and telecommunication areas
 ```
 
-## Project methodology
-This project is being developed with the use of Scrum techniques. \
+## Methodology
+This product is being developed with the use of Scrum techniques. \
 If you are interested to get to know more about this process please do not hesitate to contact us! 
