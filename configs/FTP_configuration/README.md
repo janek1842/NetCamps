@@ -1,6 +1,6 @@
 Config :
 
-1.Server
+1.Server -
 
 Marked this points and filled this text fields:
 
