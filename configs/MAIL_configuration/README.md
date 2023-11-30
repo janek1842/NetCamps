@@ -1,2 +1,2 @@
-**Configuration list in packet tracer :
-**
+**Configuration list in packet tracer :**
+
