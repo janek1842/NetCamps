@@ -1,4 +1,4 @@
-### VOIP
+### Dormitory VOIP service configuration
 
 VoIP (Voice Over Internet Protocol) is a technology that allows you to make and receive phone calls over the internet. It is an important requirement for a dormitory, as it provides internal voice communication inside a building. It can server also for other organizations for an alternative method of communication especially useful in emergency situations.
 
@@ -13,7 +13,8 @@ Below GIF presents the short overview of the possible configuration for providin
 - Selecting two random VOIP phones from the dormitory network
 - Presenting succesfull call from one device to another
 
-![voip_effect](https://github.com/janek1842/NetCamps/assets/56030577/6b45210d-a24b-42f2-86ae-febbb8dd6858)
+![20231202141411](https://github.com/janek1842/NetCamps/assets/56030577/f859dc22-01ad-4afe-9fba-ba1e20392a11)
+
 
 ### Config
 
