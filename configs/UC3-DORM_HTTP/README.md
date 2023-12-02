@@ -16,10 +16,12 @@ Below GIF presents the short overview of the possible configuration for providin
 - Selecting a randomly chosen PC from the campus network
 - Successful webpage access for the selected device
 
+![http_effect](https://github.com/janek1842/NetCamps/assets/56030577/ffbb061f-3ee1-4dec-a785-57f07ef21020)
+
 ### Config
 
 Below configuration presents the key steps of fulfilling Web Page for Dormitory requirement
 
-![http_effect](https://github.com/janek1842/NetCamps/assets/56030577/ffbb061f-3ee1-4dec-a785-57f07ef21020)
+TO_BE_DONE
 
 ```
