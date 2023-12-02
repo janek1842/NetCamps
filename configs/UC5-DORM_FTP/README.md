@@ -16,7 +16,7 @@ Below GIF presents the short overview of the possible configuration for providin
 - Uploading kanban.txt file to FTP server
 - Listing available files on FTP server and confirming succesful upload of kanban.txt file
 
-![20231202144053](https://github.com/janek1842/NetCamps/assets/56030577/2f1e8254-3058-4eab-afd2-ddf4fe014aaa)
+![20231202144053 (4)](https://github.com/janek1842/NetCamps/assets/56030577/f0316f07-a3e3-4bd1-9eff-c080a4780cbb)
 
 ### Config
 
