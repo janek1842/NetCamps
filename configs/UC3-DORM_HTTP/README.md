@@ -16,7 +16,7 @@ Below GIF presents the short overview of the possible configuration for providin
 - Selecting a randomly chosen PC from the campus network
 - Successful webpage access for the selected device
 
-![http_effect](https://github.com/janek1842/NetCamps/assets/56030577/ffbb061f-3ee1-4dec-a785-57f07ef21020)
+![20231202151345](https://github.com/janek1842/NetCamps/assets/56030577/de15fa3b-ca13-4a6f-9004-c36c4ee7630c)
 
 ### Config
 
