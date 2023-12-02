@@ -27,11 +27,12 @@ Configuration can be divided into 3 subparts.
 2. setting up a dns server
 3. configuring DHCP server 
 
-1. setting up a http server
-   for this part we deploy a server device in our centralised server area and add it to our internal network. This server will be acting as http serwer.
-   Then we go into Services tab and select HTTP. Here we edit index.html file which describes the interior display of our web page. Now we have our server side application which hosts our web page.
-2. setting up a dns server
-   Now we need to map our static ip address to our domain name, so we can use mnemonics url's instead of binary digits. We deploy another server just as described in subpart 1. Then we go into Services and DNS. We set service on and add coresponding domain name for our ip address. In our case it name is www.akademik.pl and Address is 10.10.10.30.
-3. Now we want our end device users to type our domain name in their browser address and be forwarded just into our http server. In order to achieve that we need to set our internal dns in our dhcp   server pools. We open our dhcp server setting by left-clicking on it and go into services, DHCP. here we edit pools for every dorm and every user in our network so that their assigned dns match      with our internal dns.
+###setting up a http server
+for this part we deploy a server device in our centralised server area and add it to our internal network. This server will be acting as http serwer.
+Then we go into Services tab and select HTTP. Here we edit index.html file which describes the interior display of our web page. Now we have our server side application which hosts our web page.
+###setting up a dns server
+Now we need to map our static ip address to our domain name, so we can use mnemonics url's instead of binary digits. We deploy another server just as described in subpart 1. Then we go into ###Services and DNS. 
+We set service on and add coresponding domain name for our ip address. In our case it name is www.akademik.pl and Address is 10.10.10.30.
+Now we want our end device users to type our domain name in their browser address and be forwarded just into our http server. In order to achieve that we need to set our internal dns in our dhcp   server pools. We open our dhcp server setting by left-clicking on it and go into services, DHCP. here we edit pools for every dorm and every user in our network so that their assigned dns match      with our internal dns.
 
       Now every user should have access to our internal web page from his browser under the www.akademik.pl url.
