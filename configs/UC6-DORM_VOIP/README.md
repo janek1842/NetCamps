@@ -13,8 +13,7 @@ Below GIF presents the short overview of the possible configuration for providin
 - Selecting two random VOIP phones from the dormitory network
 - Presenting succesfull call from one device to another
 
-![20231202141411](https://github.com/janek1842/NetCamps/assets/56030577/f859dc22-01ad-4afe-9fba-ba1e20392a11)
-
+![20231202141411 (1)](https://github.com/janek1842/NetCamps/assets/56030577/05a8b901-3c60-4c2e-aae6-0ae4290e8621)
 
 ### Config
 
