@@ -10,7 +10,10 @@ Voice over Internet Protocol (VoIP) is a technology that enables the transmissio
 
 Below GIF presents the short overview of the possible configuration for providing VOIP for dormitory:
 
+- Selecting two random VOIP phones from the dormitory network
+- Presenting succesfull call from one device to another
 
+![voip_effect](https://github.com/janek1842/NetCamps/assets/56030577/6b45210d-a24b-42f2-86ae-febbb8dd6858)
 
 ### Config
 
