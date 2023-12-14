@@ -1,7 +1,7 @@
 # NetCamps
 This product is being developed for the use of _Metodyki Projektów Teleinformatycznych_ university course. 
 
-> It general aim is to design, configure, simulate, test and document an exemplary campus computer network   
+> Its general aim is to design, configure, simulate, test and document an exemplary campus computer network   
 
 ## Product portfolio
 This product might be used in many areas depending if you are a student, network engineer, entrepreneur or in any other role interested in one of the below points, which are standing as a business justification and roadmap for the product development:     
