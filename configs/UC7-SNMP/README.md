@@ -1,6 +1,13 @@
-### SNMP
+## SNMP configuration
 
 Simple Network Management Protocol (SNMP) is an Internet Standard protocol for collecting and organizing information about managed devices on IP networks. 
+
+> As a user, I want to enable network administrator to manage posessed devices via the SNMP commands 
+
+## Demo
+
+
+## Config
 
 SNMP is configured using snmp-server command. 
 Read-write SNMP community string is used to enable the network administrator to view and change device configuration. 
