@@ -14,6 +14,9 @@ The list of below steps, present description of the IoT demo:
 
 ![20231216122846](https://github.com/janek1842/NetCamps/assets/56030577/c73ceb2c-d861-41cc-8a1b-85fde075d8b8)
 
+Second part of the demo delivers remote configuration of IoT devices present in **Beta** dormitory
+
+![20231216123737](https://github.com/janek1842/NetCamps/assets/56030577/c184e384-58ce-4723-8272-0a704dc95af1)
 
 ## Config
 
