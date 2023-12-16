@@ -7,7 +7,12 @@ The Internet of Things (IoT) refers to the interconnected network of physical de
 In a campus network, the integration of the Internet of Things (IoT) holds significant importance for several reasons. Firstly, IoT devices can enhance campus infrastructure by providing real-time monitoring and control of various systems such as lighting, heating, ventilation, and air conditioning (HVAC), ensuring optimal energy efficiency and resource utilization.
 
 ## Demo
+The list of below steps, present description of the IoT demo:
+- **Alfa** dorm: movement inside the building automatically turns on light and fan saving energy and costs
+- **Bet** dorm: entering dorm invokes turning on IoT camera and motion sensor alarm preventing security 
+- **Gamma** dorm: wind movement causes shutting down windows and turning on fan preventing potential damage 
 
+![20231216122846](https://github.com/janek1842/NetCamps/assets/56030577/c73ceb2c-d861-41cc-8a1b-85fde075d8b8)
 
 
 ## Config
