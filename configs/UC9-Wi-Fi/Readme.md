@@ -7,8 +7,9 @@ Wi-Fi, short for Wireless Fidelity, refers to a set of wireless networking techn
 In campus networks, Wi-Fi plays a crucial role in providing connectivity and flexibility for both students and faculty.
 
 ## Demo
+In this demo, succesfull webpage access from the attached to the Wi-Fi network smartphone is presented 
 
-
+![20231216124349](https://github.com/janek1842/NetCamps/assets/56030577/3922168a-09a3-454c-aaeb-b1c83f6c0c9a)
 
 ## Config
 
