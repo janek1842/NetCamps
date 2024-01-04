@@ -1,8 +1,10 @@
-## Wi-Fi configuration
+## Secure Wi-Fi configuration
 
 Wi-Fi, short for Wireless Fidelity, refers to a set of wireless networking technologies that allow devices to connect and communicate with each other without the need for physical cables. Wi-Fi technology is based on the IEEE 802.11 family of standards, which define the specifications for implementing wireless local area networking (WLAN) communication.
 
 > As a user, I want every organization memmber to communicate with each other with Wi-Fi interface
+
+> As a user, I want every organization memeber to have Wi-Fi security assured with Layer 2 techniques and WPA2 protocol  
 
 In campus networks, Wi-Fi plays a crucial role in providing connectivity and flexibility for both students and faculty.
 
@@ -10,6 +12,12 @@ In campus networks, Wi-Fi plays a crucial role in providing connectivity and fle
 In this demo, succesfull webpage access from the attached to the Wi-Fi network smartphone is presented 
 
 ![20231216124349](https://github.com/janek1842/NetCamps/assets/56030577/3922168a-09a3-454c-aaeb-b1c83f6c0c9a)
+
+In the second part of the demo, security issues regarding configured networks are presented. Multiple wireless networks for every building with enabled WPA2 protocol based on AES encryption algorithm and configured password.  
+
+![config_1](https://github.com/janek1842/NetCamps/assets/56030577/be19756e-5298-4b90-bf32-1fd3ceaf6eec)
+
+https://github.com/janek1842/NetCamps/assets/56030577/5e84afe0-3eae-47e6-b0f3-4009b81c7730
 
 ## Config
 
