@@ -3,6 +3,8 @@ Cisco ASA 5506-X is a firewall security appliance which provices services such a
 
 > As a user, I want to posses firewall in front of the servers, filtering selected traffic from accessing organizational services 
 
+The presence of a firewall in a dormitory network is vital for safeguarding against various cyber threats, controlling access, ensuring privacy, and complying with security regulations. It is an essential component of a comprehensive network security strategy.
+
 ## Demo
 Below demo presents a configuration that is described in Config section. It assumes an organizational webpage access attempt: 
 
