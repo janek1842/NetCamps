@@ -4,6 +4,12 @@ Cisco ASA 5506-X is a firewall security appliance which provices services such a
 > As a user, I want to posses firewall in front of the servers, filtering selected traffic from accessing organizational services 
 
 ## Demo
+Below demo presents a configuration that is described in Config section. It assumes an organizational webpage access attempt: 
+
+- firewall forbiden access (unsuccessful) from PC-Alfa-0
+- legal (successfull) access from PC-Alfa-1
+
+![20240105181626](https://github.com/janek1842/NetCamps/assets/56030577/93bd4364-1927-43ff-8b7e-af45124fecfc)
 
 ### Config
 
