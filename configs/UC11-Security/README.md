@@ -8,6 +8,16 @@ In the context of campus networks, the importance of IoT security is magnified d
 
 ### Demo
 
+In this presentation, enhanced IoT Security with the use of WPA2-PSK is presented. 
+
+- In the first step, an intelligent wireless lamp is trying to authenticate itself with the wrong password
+- In the second step, iot sensors are stimulated to run, all devices with the except of unathenticated lamp is running
+- Next, lamp changes authentication password for a proper one
+- Lamp is connected succesfully to the network and runs after movement detection
+   
+![20240105184041](https://github.com/janek1842/NetCamps/assets/56030577/f1fe7408-0f4b-40cf-a73d-5346befdbc78)
+
+
 ### Config
 1.Connecting to SSID from IoT device and instert properly password:
 ![image](https://github.com/janek1842/NetCamps/assets/56090710/a0434cfb-34cf-44a8-bb1a-d69649befc2b)
