@@ -9,6 +9,11 @@ In the context of campus networks, the importance of IoT security is magnified d
 ### Demo
 
 ### Config
+![image](https://github.com/janek1842/NetCamps/assets/56090710/a0434cfb-34cf-44a8-bb1a-d69649befc2b)
 
-Tutaj uzupełnić!
+![image](https://github.com/janek1842/NetCamps/assets/56090710/f8c901f4-bc22-417f-b49a-33c8dcd9d148)
+
+![image](https://github.com/janek1842/NetCamps/assets/56090710/4d704f40-0467-47e8-b7a7-ccad031f3f78)
+
+
 
